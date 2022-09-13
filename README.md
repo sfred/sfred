@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-Hi, I'm Sam, a full stack developer and solutions architect from Portland, ME. I'm currently working for [AWS](https://aws.amazon.com) and just finished my final year at the University of Vermont studying Computer Science & Information Systems. Besides programming, I love to eat 🍳 and travel ✈️ whenever time (and pandemics) allow.
+Hi, I'm Sam, a full stack developer and solutions architect based in Boston, MA. I'm currently working for [AWS](https://aws.amazon.com). Besides programming, I love to eat 🍳 and travel ✈️ whenever time (and pandemics) allow.
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
