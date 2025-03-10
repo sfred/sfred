@@ -11,14 +11,6 @@
 <br/>
 <br/>
 
-Hi, I'm Sam, a full stack developer and solutions architect based in Boston, MA. I'm currently working for [AWS](https://aws.amazon.com). Besides programming, I love to eat 🍳 and travel ✈️ whenever time (and pandemics) allow.
+Hi, I'm Sam, a customer experience leader and solutions architect based in Boston, MA. I'm currently working for [Maximus](https://maximus.com). Feel free to reach out using the links above.
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-**About me**
-
-- 🎓 I graduated from the University of Vermont in December 2020.
-- 💻 Currently working remotely for AWS as an Associate Solutions Architect.
-- 🚗 Previously at Tesla's Digital Experience department.
-- 💼 Interested in full-time positions in front-end, back-end, full stack or solutions architect roles.
-- 📭 Please send me an [email](mailto:sam@sfr.io) to reach me.
+<img alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
