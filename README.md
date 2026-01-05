@@ -11,6 +11,6 @@
 <br/>
 <br/>
 
-Hi, I'm Sam, a customer experience leader and solutions architect based in Boston, MA. I'm currently working for [Maximus](https://maximus.com). Feel free to reach out using the links above.
+Hi, I'm Sam, a product leader and solutions architect based in Boston, MA. Feel free to reach out using the links above.
 
 <img alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
